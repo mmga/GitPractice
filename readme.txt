@@ -5,3 +5,5 @@ new branch dev
 inflict
 merge2
 bug merge
+
+clone push
