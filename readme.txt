@@ -4,3 +4,4 @@ git track
 new branch dev
 inflict
 merge2
+bug merge
